@@ -1,1 +1,1 @@
-# otithi-foundation
+# otithi
